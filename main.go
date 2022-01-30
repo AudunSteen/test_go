@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/AudunSteen/test_go"
+	"rsc.io/quote"
 )
 
 func main() {
