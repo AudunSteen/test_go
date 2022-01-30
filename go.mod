@@ -1,4 +1,4 @@
-module main.go
+module github.com/AudunSteen/test_go
 
 go 1.17
 
