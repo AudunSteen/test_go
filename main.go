@@ -12,3 +12,5 @@ func main() {
 	fmt.Println(quote.Glass())
 	fmt.Println(quote.Opt())
 }
+
+//go get github.com/AudunSteen/test_go@v1.0.1
